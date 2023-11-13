@@ -5,4 +5,4 @@ Repositório dedicado à disciplina de de Pós Graduação Web-Mobile - Tecnolog
 https://youtu.be/nwDfio46IJw
 
 #Explicação tarefas 2 e 3 
-Explicação de cada tarefa está em um áudio dentro do projeto, ambos com o nome de "AudioExplicacao".
+estão em um áudio dentro do projeto, ambos com o nome de "AudioExplicacao".
